@@ -32,7 +32,7 @@
 
 [Nova](https://github.com/bduber274/Nova-Network)
 
-- EmberOS (soon)
+EmberOS (soon)
 ## I have contributed to:
 
 [PLEXILE ARCADE](https://github.com/PLEXILENetwork/v5)
