@@ -10,6 +10,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,github,replit,discord,)](https://skillicons.dev)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=JustJxrdanWasDefinetlyTaken&show_icons=true&theme=catppuccin_mocha)
+
 # Projects that i've contributed to/own:
 ## I own:
 
@@ -34,7 +36,7 @@
 
 [PLEXILE ARCADE](https://github.com/PLEXILENetwork/v5)
 
-[Ghost]([https://dingusxnobodycares.commwebworks.com/])
+[Ghost]([https://dingusxnobodycares.commwebworks.com])
 
 [Sunset Network](https://github.com/Sunset-Network)
 
