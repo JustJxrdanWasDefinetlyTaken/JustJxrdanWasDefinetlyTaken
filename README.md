@@ -37,7 +37,7 @@
 
 [PLEXILE ARCADE](https://github.com/PLEXILENetwork/v5)
 
-[Ghost]([https://dingusxnobodycares.commwebworks.com])
+[Ghost](https://dingusxnobodycares.commwebworks.com)
 
 [Sunset Network](https://github.com/Sunset-Network)
 
