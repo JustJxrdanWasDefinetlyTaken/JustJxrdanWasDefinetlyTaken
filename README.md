@@ -30,7 +30,7 @@
 
 [SpaceFlix](https://albibos.github.io/sf/)
 
-[Nova]([https://github.com/bduber274/Nova-Network])
+[Nova](https://github.com/bduber274/Nova-Network)
 
 - EmberOS (soon)
 ## I have contributed to:
