@@ -7,13 +7,13 @@
 
 [Jordan's Math Work](https://github.com/GalacticNetwork/jordansmathwork-v5)
 
-[Astro (broken)](https://github.com/GalacticNetwork/astro)
+[Astro](https://github.com/GalacticNetwork/astro)
 
 [A1RPlay](https://github.com/GalacticNetwork/a1rplay)
 
 [Lithium.JS](https://github.com/GalacticNetwork/lithium.js)
 
-[Arc](https://github.com/slqntdevss/arc)
+[Arc (broken)](https://github.com/slqntdevss/arc)
 
 [SpaceFlix](https://albibos.github.io/sf/)
 
