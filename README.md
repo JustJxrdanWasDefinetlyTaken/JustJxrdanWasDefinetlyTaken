@@ -13,6 +13,8 @@
 
 [JMW Lite](https://github.com/galacticnetwork/jordansmathwork-lite)
 
+[Ghost](https://github.com/The-Ghost-Network/Ghost-Astro)
+
 ## Hobbies:
 - coding
 - gaming
