@@ -7,21 +7,11 @@
 
 [Jordan's Math Work](https://github.com/GalacticNetwork/jordansmathwork-v5)
 
-[Astro](https://github.com/GalacticNetwork/astro)
+[Ambience](https://github.com/slqntdevss/ambience)
 
-[A1RPlay](https://github.com/GalacticNetwork/a1rplay)
+[SpaceFlix](https://spaceflix.xyz)
 
-[Lithium.JS](https://github.com/GalacticNetwork/lithium.js)
-
-[Arc (broken)](https://github.com/slqntdevss/arc)
-
-[SpaceFlix](https://albibos.github.io/sf/)
-
-[Nova](https://github.com/bduber274/Nova-Network)
-
-EmberOS (soon)
-
-JMW Lite (downloadable) (soon)
+[JMW Lite](https://github.com/galacticnetwork/jordansmathwork-lite)
 
 ## Hobbies:
 - coding
