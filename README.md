@@ -5,7 +5,7 @@
 # Projects that i've contributed to/own:
 ## I own:
 
-[Jordan's Math Work](https://github.com/GalacticNetwork/jordansmathwork-v5)
+[Jordan's Math Work](https://github.com/justjxrdanwasdefinetlytaken/jmw-node)
 
 [Ambience](https://github.com/slqntdevss/ambience)
 
