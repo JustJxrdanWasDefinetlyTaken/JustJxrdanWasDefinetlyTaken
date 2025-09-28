@@ -9,11 +9,11 @@
 
 [Ambience](https://github.com/slqntdevss/ambience)
 
-[SpaceFlix](https://spaceflix.xyz)
+[Spaceflix](https://spaceflix.xyz)
 
 [JMW Lite](https://github.com/galacticnetwork/jordansmathwork-lite)
 
-[Ghost](https://github.com/The-Ghost-Network/Ghost-Astro)
+[GLIS](https://github.com/gnadc/gdm)
 
 ## Hobbies:
 - coding
