@@ -13,13 +13,13 @@
 
 [JMW Lite](https://github.com/galacticnetwork/jordansmathwork-lite)
 
-[GLIS](https://github.com/gnadc/gdm)
+[GLIS](https://github.com/gnadc/gbm)
 
 ## Hobbies:
 - coding
 - gaming
 - roblox
-- the strongest battlegrounds
+- jujutsu shenangians
 
 # Languages/Codespaces/Tech/Websites I use
 
