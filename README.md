@@ -15,6 +15,9 @@
 
 [GLIS](https://github.com/gnadc/gbm)
 
+## I contributed to:
+[Quasar (i half own it)](https://edu.aptutorfinder.com)
+
 ## Hobbies:
 - coding
 - gaming
