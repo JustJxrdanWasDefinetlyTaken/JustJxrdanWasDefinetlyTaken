@@ -1,7 +1,7 @@
 ## I own:
 
-[Jordan's Math Work](https://github.com/justjxrdanwasdefinetlytaken/jmw-node)
-[Ambience](https://github.com/slqntdevss/ambience)
+- [Jordan's Math Work](https://github.com/justjxrdanwasdefinetlytaken/jmw-node)
+- [Ambience](https://github.com/slqntdevss/ambience)
 
 ## I contributed to:
 [Quasar](https://edu.aptutorfinder.com)
