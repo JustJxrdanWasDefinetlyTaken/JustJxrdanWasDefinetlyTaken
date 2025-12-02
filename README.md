@@ -4,7 +4,7 @@
 - [Ambience](https://github.com/slqntdevss/ambience)
 
 ## I contributed to:
-[Quasar](https://edu.aptutorfinder.com)
+- [Quasar](https://edu.aptutorfinder.com)
 
 ## Hobbies:
 - coding
