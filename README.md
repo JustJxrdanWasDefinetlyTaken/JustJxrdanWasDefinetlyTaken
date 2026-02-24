@@ -1,15 +1,13 @@
-## I own:
+## Projects:
 
 - [Jordan's Math Work](https://github.com/justjxrdanwasdefinetlytaken/jmw-node)
 - [Ambience](https://github.com/slqntdevss/ambience)
-
-## I contributed to:
-- [Quasar](https://edu.aptutorfinder.com)
+- [Celestial](https://github.com/justjxrdanwasdefinetlytaken/celestial)
+- [Quasar](https://github.com/slqntdevss/quasar)
 
 ## Hobbies:
 - coding
 - gaming
-- roblox
 - jujutsu shenangians
 
 # Languages/Codespaces/Tech/Websites I use
