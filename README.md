@@ -1,16 +1,18 @@
-## Projects:
+one and only
+
+## projects:
 
 - [Jordan's Math Work](https://github.com/justjxrdanwasdefinetlytaken/jmw-node)
 - [Ambience](https://github.com/slqntdevss/ambience)
 - [Celestial](https://github.com/justjxrdanwasdefinetlytaken/celestial)
 - [Quasar](https://github.com/slqntdevss/quasar)
 
-## Hobbies:
+## hobbies:
 - coding
 - gaming
 - jujutsu shenangians
 
-# Languages/Codespaces/Tech/Websites I use
+# stuff i use
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,github,replit,discord,)](https://skillicons.dev)
 
